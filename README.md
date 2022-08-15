@@ -4,7 +4,7 @@ Etapa número um do processo seletivo.
 
 ### Como testar
 
-Baixe os arquivos e os coloque em uma mesmo pasta. Após isso, apenas abre o arquivo "index.html" e ja estará funcionando normalmente.
+Baixe o arquivo e realize a extração. Após isso, apenas abre o arquivo "index.html" e ja estará funcionando normalmente.
 
 ### OBS:
 
